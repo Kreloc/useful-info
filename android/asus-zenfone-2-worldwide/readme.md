@@ -1,5 +1,17 @@
 # ASUS Zenfone 2 (Worldwide)
 
+## Stock Recovery
+
+Unlock bootloader if not unlocked. [Click here for the instructions.](unlock-bootloader/)
+
+Download the recovery `.img` file for your phone.
+
+Flash the file using fastboot
+
+````
+fastboot flash recovery stock-recovery.img
+````
+
 ## Custom Recovery
 
 Unlock bootloader if not unlocked. [Click here for the instructions.](unlock-bootloader/)
