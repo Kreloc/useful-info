@@ -1,4 +1,4 @@
-# Unlocking Bootloader for the Asus Zenfone 2 (Worldwide)
+# Unlocking Bootloader for Asus Zenfone 2 (Worldwide)
 *December 22nd, 2015*
 
 I extracted the file at...
