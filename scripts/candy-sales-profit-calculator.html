@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Profit Calculator</title>
+</head>
+<body>
+<p>Calculates the profit returned from buying candy boxes from <a href="https://oldfashioncandy.com/">Old Fashion Candy</a>.</p>
+<p>Press F12 and look at the console.</p>
+<p><em>Last updated 2016-07-05</em></p>
+<script>
+var calculateShipping = function(box_count) {
+    if (box_count === 1) {
+        return 5.8;
+    }
+    if (box_count === 2) {
+        return 8.6;
+    }
+    if (box_count === 3) {
+        return 11.4;
+    }
+    if (box_count === 4) {
+        return 11.2;
+    }
+    if (box_count === 5) {
+        return 14;
+    }
+    if (box_count === 6) {
+        return 16.8;
+    }
+    if (box_count === 7) {
+        return 19.6;
+    }
+    if (box_count === 8) {
+        return 22.4;
+    }
+    if (box_count === 9) {
+        return 25.2;
+    }
+    if (box_count === 10) {
+        return 28;
+    }
+    if (box_count === 11) {
+        return 30.8;
+    }
+    if (box_count === 12) {
+        return 33.6;
+    }
+    if (box_count === 13) {
+        return 36.4;
+    }
+    if (box_count === 14) {
+        return 39.2;
+    }
+    if (box_count === 15) {
+        return 42;
+    }
+    if (box_count === 16) {
+        return 44.8;
+    }
+    if (box_count === 17) {
+        return 47.6;
+    }
+    if (box_count === 18) {
+        return 50.4;
+    }
+    if (box_count === 19) {
+        return 53.2;
+    }
+    if (box_count === 20) {
+        return 56;
+    }
+    if (box_count === 21) {
+        return 58.8;
+    }
+    if (box_count === 22) {
+        return 61.6;
+    }
+    if (box_count === 23) {
+        return 64.4;
+    }
+    if (box_count === 24) {
+        return 67.2;
+    }
+    if (box_count === 25) {
+        return 70;
+    }
+    if (box_count === 26) {
+        return 72.8;
+    }
+    if (box_count === 27) {
+        return 75.6;
+    }
+    if (box_count === 28) {
+        return 78.4;
+    }
+    if (box_count === 29) {
+        return 81.2;
+    }
+    if (box_count === 30) {
+        return 84;
+    }
+};
+
+var calculateProfitPerBox = function(box_count) {
+
+    /* Data taken from website */
+    cost_per_box = 36;
+    if (box_count >= 20) {
+        cost_per_box = 30;
+    }
+    bars_in_box = 60;
+
+
+    shipping = calculateShipping(box_count);
+    bar_count_complimentary = Math.ceil(shipping / 10) * 10;
+    bar_count = (box_count * bars_in_box) + bar_count_complimentary;
+
+    expense = (box_count * cost_per_box) + shipping;
+    income = bar_count;
+    profit = bar_count - expense;
+    profit_per_box = profit / box_count;
+/*    console.log(
+        "Buying " + box_count +
+        " box(es) -- # Of Bars: " + bar_count +
+        " (includes " + bar_count_complimentary +
+        " extra bars) -- Cost = $" + expense.toFixed(2) +
+        " (includes $" + shipping.toFixed(2) +
+        " shipping) -- Profit: $" + profit.toFixed(2)
+    );
+    console.log("  --->  Profit Per Box: $" + profit_per_box.toFixed(2));
+    console.log("");*/
+    console.log("If you buy " + box_count + " box(es), you get $" + profit_per_box.toFixed(2) + " per box. -- Shipping: " + shipping + ",  Reimbusrment: " + bar_count_complimentary);
+    return profit_per_box;
+};
+for (var i = 1; i <= 30; i++) {
+    calculateProfitPerBox(i);
+}
+</script>
+</body>
+</html>
