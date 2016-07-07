@@ -39,3 +39,11 @@ Reboot system
 #### Bluetooth Application
 
 Try `blueman` as a standalone application to control your bluetooth controller.
+
+#### Bluetooth Audio
+
+`apt-get install pulseaudio pulseaudio-module-bluetooth pavucontrol bluez-firmware`
+`service bluetooth restart`
+`killall pulseaudio`
+
+[wiki.debian.org/BluetoothUser/a2dp](https://wiki.debian.org/BluetoothUser/a2dp)
