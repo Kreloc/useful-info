@@ -29,3 +29,13 @@ View playback hardware devices
 
 View audio devices
 : `lspci | grep -i audio`
+
+### Bluetooth
+
+`apt-get install firmware-atheros`
+
+Reboot system
+
+#### Bluetooth Application
+
+Try `blueman` as a standalone application to control your bluetooth controller.
