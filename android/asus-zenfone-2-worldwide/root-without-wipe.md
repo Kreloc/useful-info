@@ -10,6 +10,8 @@ You need the following files in your working directory.
 * `recovery.launcher`
 * `recovery.trigger.new`
 * `recovery.zip`
+
+Put the following on your external SD card.
 * The SuperSU update file (ex: `UPDATE-SuperSU.zip`)
 
 ## Short Instructions
@@ -27,34 +29,43 @@ You need the following files in your working directory.
 Notes:
  * Model Number: ZE551ML
 
-Turn on USB debugging and authorize computer.
+**Turn on USB debugging and authorize computer.**
 
-Boot into fastboot.
+### Put Recovery on Memory
+
+**Boot into fastboot.**
 ```
 $ adb reboot bootloader
 ```
 
-Make sure you see your device is accessible.
+**Make sure your device is accessible.**
 ```
 $ fastboot devices
 ```
 *EXpected Output: `ABCDEF1234567     fastboot`*
 
-Push the recovery files to a temporary location.
+**Push the recovery files to a temporary location.**
 ```
 $ fastboot flash /tmp/recovery.zip WORKING_DIRECTORY_HERE/recovery.zip
 $ fastboot flash /tmp/recovery.launcher WORKING_DIRECTORY_HERE/recovery.launcher
 ```
-**Please replace `WORKING_DIRECTORY_HERE` with your current working directory!**
+*Please replace `WORKING_DIRECTORY_HERE` with your current working directory!*
 
-Replace `logcat` with the trigger program.
+*You're going to get "Permission Denied" messages. This is normal.*
+
+**Replace `logcat` with the trigger program.**
 ```
 $ fastboot oem start_partitioning
 $ fastboot flash /system/bin/logcat WORKING_DIRECTORY_HERE/recovery.trigger.new
 ```
-**Please replace `WORKING_DIRECTORY_HERE` with your current working directory!**
 
-Stop the partitioning. This will start the temporary recovery.
+**Stop the partitioning.**
+
+This will start the temporary recovery.
 ```
 $ fastboot oem stop_partitioning
 ```
+
+### Install SuperSU
+
+**In the recovery, install the SuperSU update file from your external SD card.**
