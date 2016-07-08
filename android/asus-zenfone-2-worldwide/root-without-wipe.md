@@ -20,7 +20,7 @@ Put the following on your phone.
 * Put a custom recovery into working memory
   * Push the `recovery.zip` and `recovery.launcher` to the temporary folder.
   * Overwrite `logcat` with the "recovery trigger" program.
-* Once the recovery stars, install SuperSu
+* Once the recovery starts, install SuperSu
 
 ## Long Instructions
 
