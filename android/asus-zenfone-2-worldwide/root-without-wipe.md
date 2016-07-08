@@ -71,3 +71,29 @@ $ fastboot oem stop_partitioning
 **In the recovery, install the SuperSU update file..**
 
 *Important: Had trouble installing zip from sideload and external sd card. I highly recommend placing the SuperSU update file on your Android's internal memory.*
+
+---
+
+## Research
+
+**SuperSU**
+
+The su binary was made by Chainfire. This user also has an application on the Google Play Store called SuperSU; an application that manages root access for individual apps.
+
+**update.zip**
+
+The SuperSU update zip has a very specific structure. Every zip installed via recovery (or sideload) must conform to this structure. See [forum.xda-developers.com/showthread.php?t=1610121](https://forum.xda-developers.com/showthread.php?t=1610121).
+
+**What does it mean to root?**
+
+"Rooting" a phone means to place the `su` binary and the application that accesses such binary in the /system partition. For example, the `su` binary is located at `/system/xbin/su` and the SuperSU application is located at `/system/app/SuperSU/SuperSU.apk`.
+
+**What did I do to your phone?**
+
+The instructions above took advantage of an exploit in the firmware. Please correct me if I'm wrong, but I believe that we put our custom recovery into RAM by overwriting an active program called `logcat`. I have an idea of how this is possible but I will refrain from mentioning it here until I verify my suspicision.
+
+**What about other methods? Like the ones that remove my data?**
+
+A lot of other methods use a custom ROM with SuperSU built into itself. The user would flash the rom to the device which will overwrite everything. Instead, we can use an exploit that allows us to modify the current rom.
+
+According to some sources, it should never be possible to modify/view the rom (and its files) if the bootloader is locked. Every phone is going to come with a locked bootloader for security reasons; outsiders would not be able to access your data without your permission.
