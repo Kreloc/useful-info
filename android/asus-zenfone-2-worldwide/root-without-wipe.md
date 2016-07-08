@@ -11,7 +11,7 @@ You need the following files in your working directory.
 * `recovery.trigger.new`
 * `recovery.zip`
 
-Put the following on your external SD card.
+Put the following on your phone.
 * The SuperSU update file (ex: `UPDATE-SuperSU.zip`)
 
 ## Short Instructions
@@ -68,4 +68,6 @@ $ fastboot oem stop_partitioning
 
 ### Install SuperSU
 
-**In the recovery, install the SuperSU update file from your external SD card.**
+**In the recovery, install the SuperSU update file..**
+
+*Important: Had trouble installing zip from sideload and external sd card. I highly recommend placing the SuperSU update file on your Android's internal memory.*
