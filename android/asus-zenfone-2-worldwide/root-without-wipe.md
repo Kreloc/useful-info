@@ -2,15 +2,23 @@
 
 These are the instructions to root your Zenfone without any data loss.
 
+Downloads
+* Download the recovery files from [techmesto.com/root-zenfone-2](https://www.techmesto.com/root-zenfone-2/).
+* Download SuperSU from [forum.xda-developers.com/showthread.php?t=1538053](http://forum.xda-developers.com/showthread.php?t=1538053)
+
+You need the following files in your working directory.
+* `recovery.launcher`
+* `recovery.trigger.new`
+* `recovery.zip`
+* The SuperSU update file (ex: `UPDATE-SuperSU.zip`)
+
 ## Short Instructions
 
 * Boot into fastboot
 * Put a custom recovery into working memory
   * Push the `recovery.zip` and `recovery.launcher` to the temporary folder.
-  * Start a partitioning tool
   * Overwrite `logcat` with the "recovery trigger" program.
-  * Stop the partitioning tool
-* Install SuperSu
+* Once the recovery stars, install SuperSu
 
 ## Long Instructions
 
