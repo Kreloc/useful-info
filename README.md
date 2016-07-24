@@ -1,10 +1,11 @@
 # Useful Info
-Any computer-related information that you feel would benefit more advanced users.
+Any information that you feel would benefit more technical/advanced users.
 
 ## Topics
 
-* Modifying the `Asus ZenFone 2 (Worldwide)`
-  * [Unlocking the bootloader](/android/asus-zenfone-2-worldwide/bootloader-unlock.md)
-  * [Fixing/changing the recovery](/android/asus-zenfone-2-worldwide/recovery.md)
-* [Cheaper Phone Bill](/financial/cheaper-phone-bill.md) (while using 1 GB per month)
+* [Modifying the `Asus ZenFone 2 (Worldwide)`](android/asus-zenfone-2-worldwide)
+* [Saving Money, Being Frugal](financial)
+* [Git](git)
+* [The Linux Ecosystem](linux)
+* [Various Scripts](scripts)
 * Information about things (software, media, code, etc.) that can be put on a flash drive.
