@@ -1,40 +1,6 @@
 # FREE!
 
-## Learning
-
-[Learn Anything for Free; NoExcuseList](http://www.noexcuselist.com/)
-
-**General Education**
-
-* [Coursera](http://coursera.org/)
-* [Khan Academy](http://khanacademy.org/)
-* [Wolfram Alpha](http://www.wolframalpha.com/)
-* [MIT Open Courseware](http://ocw.mit.edu/courses/)
-* [Open Yale Courses](http://oyc.yale.edu/)
-* [edX](https://www.edx.org/)
-* [Ted Talks](https://www.ted.com/talks)
-* [Wikipedia](https://www.wikipedia.org/)
-* [Docsity](http://en.docsity.com/en/study-notes)
-* [FutureLearn](https://www.futurelearn.com/)
-
-**Languages**
-
-* [Memrise](http://memrise.com/)
-* [Duolingo](http://duolingo.com/)
-* [Livemocha](http://livemocha.com/)
-* [FSI](http://fsi-languages.yojik.eu/)
-
-
-**Programming**
-
-* [Codecademy](http://codeacademy.com/)
-* [w3schools](http://www.w3schools.com/)
-* [Scratch](http://scratch.mit.edu/)
-* [MDN](https://developer.mozilla.org/en-US/)
-* [OpenClassrooms](http://openclassrooms.com/)
-* [Dash](https://dash.generalassemb.ly/)
-
----
+## [Education/Learning](education.md)
 
 ## Programs/Tools
 
@@ -120,3 +86,8 @@
 * [imslp](http://imslp.org/) - sheet music
 * [Cyph](https://www.cyph.com/) - Encrypted chat
 * [UoPeople](http://uopeople.edu/) - Tuition free online University ($100/exam)
+
+## Credits
+
+* [/u/Yivoe on an AskReddit comment](https://www.reddit.com/r/AskReddit/comments/2yw771/what_free_things_on_the_internet_should_everyone/cpdiimu)
+* [/u/osculator](https://docs.google.com/document/d/17FgH3z88UFYUscw4CHkStbz8FC-e6x1v5X9Hjo9b6eo/pub)
