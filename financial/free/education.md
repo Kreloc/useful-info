@@ -2,9 +2,6 @@
 
 [Learn Anything for Free; NoExcuseList](http://www.noexcuselist.com/)
 
-
-[Learn Anything for Free; NoExcuseList](http://www.noexcuselist.com/)
-
 ## General Education
 
 * [Anki](http://ankisrs.net/) - Similar to Memrise. Anki is a program which makes remembering things easily. Intelligent flashcards  
