@@ -47,6 +47,15 @@
 * [Udacity](https://www.udacity.com/)
 * [w3schools](http://www.w3schools.com/)
 
+## Self-Help/Advice
+
+* [7 Cups of Tea](https://www.7cups.com/) - Free, anonymous, and confidential conversations with trained active listeners. Please don't spam the site, they offer a great service
+* [Thrive On](https://thriveon.com/) - Not completely free, but aims to bring affordable online mental health programs to those who would otherwise go without. Starting next month
+* [Blah Therapy](http://blahtherapy.com/) - Online listening service. "Experience the rewards of venting to a stranger or lending an ear."
+* [MoodGYM](https://moodgym.anu.edu.au/welcome) - Learn cognitive behaviour therapy skills for preventing and coping with depression.
+* [Social Services; resources](https://www.reddit.com/r/socialworkresources) - a subreddit created by a professional Social Worker who has spent a career procuring resources for those in need.
+
+
 ## Other
 
 * [Free Rice](http://freerice.com/) - Answer vocabulary questions and rice is donated to charity! Be sure to turn off adblock when using this site, as that's how they supply the rice!  
