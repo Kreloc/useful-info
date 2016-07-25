@@ -2,32 +2,55 @@
 
 [Learn Anything for Free; NoExcuseList](http://www.noexcuselist.com/)
 
+
+[Learn Anything for Free; NoExcuseList](http://www.noexcuselist.com/)
+
 ## General Education
 
-* [Coursera](http://coursera.org/)
-* [Khan Academy](http://khanacademy.org/)
-* [Wolfram Alpha](http://www.wolframalpha.com/)
-* [MIT Open Courseware](http://ocw.mit.edu/courses/)
-* [Open Yale Courses](http://oyc.yale.edu/)
-* [edX](https://www.edx.org/)
+* [Anki](http://ankisrs.net/) - Similar to Memrise. Anki is a program which makes remembering things easily. Intelligent flashcards  
+* [Class Central](https://www.class-central.com/) - Discover free online classes (MOOCs) from top universities like Stanford, MIT, Harvard, etc.  
+* [Coursera](https://www.coursera.org/)
+* [Docsity](http://en.docsity.com/en/study-notes)
+* [EDX](https://www.edx.org/) - Free courses from the best universities, you can even get a diploma for a few dollars
+* [Future Learn](https://www.futurelearn.com/) - Learning for life, provided by UK and international universities
+* [Havard Open Courseware](http://cs50.tv/2013/fall/)
+* [Mendeley](https://www.mendeley.com/) - The best free way to manage your research. Organize, share, discover. Great for when writing a paper, it manages all your referencing/bibliography in many different available notations
+* [MIT Open Courseware](http://ocw.mit.edu/)
+* [Open2Study](http://www.open2study.com/)
+* [Open Study](http://openstudy.com/)
+* [Stanford Open Courseware](https://see.stanford.edu/see/courses.aspx)
 * [Ted Talks](https://www.ted.com/)
 * [Wikipedia](https://www.wikipedia.org/)
-* [Docsity](http://en.docsity.com/en/study-notes)
-* [FutureLearn](https://www.futurelearn.com/)
+* [Wolfram Alpha](http://www.wolframalpha.com/)
+* [Yale Open Courseware](http://oyc.yale.edu/) - actual video lectures for the class so you can get the in-class experience. Lots of classes over lots of subjects
+
+## Math
+
+* [Khan Academy](https://www.khanacademy.org/) - Free maths learning tutorials   
+* [Mathway](https://mathway.com/) - Awesome math problem solver
+* [Patrick JMT](http://patrickjmt.com/) - making free and hopefully useful math videos for the world!
 
 ## Languages
 
-* [Memrise](http://memrise.com/)
 * [Duolingo](https://www.duolingo.com/)
-* [Livemocha](http://livemocha.com/)
 * [FSI](http://fsi-languages.yojik.eu/)
-
+* [Livemocha](http://livemocha.com/)
+* [Memrise](http://memrise.com/)
 
 ## Programming
 
-* [Codecademy](http://codeacademy.com/)
-* [w3schools](http://www.w3schools.com/)
-* [Scratch](http://scratch.mit.edu/)
+* [A giant collection of Computer Science books made freely available](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development)
+* [Alison](https://alison.com/learn/programming)
+* [Become a programmer, motherfucker](http://programming-motherfucker.com/become.html) - If you don't know how to code, then you can learn even if you think you can't
+* [Codecademy](https://www.codecademy.com/) - Free interactive coding tutorials    
+* [Dash](https://dash.generalassemb.ly/)
 * [MDN](https://developer.mozilla.org/en-US/)
 * [OpenClassrooms](http://openclassrooms.com/)
-* [Dash](https://dash.generalassemb.ly/)
+* [Scratch](http://scratch.mit.edu/)
+* [Udacity](https://www.udacity.com/)
+* [w3schools](http://www.w3schools.com/)
+
+## Other
+
+* [Free Rice](http://freerice.com/) - Answer vocabulary questions and rice is donated to charity! Be sure to turn off adblock when using this site, as that's how they supply the rice!  
+* [iTunes U](https://itunes.apple.com/ie/app/itunes-u/id490217893?mt=8#) - iTunes University offers many free open courses from leading university
