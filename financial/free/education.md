@@ -25,7 +25,6 @@
 ## Math
 
 * [Khan Academy](https://www.khanacademy.org/) - Free maths learning tutorials   
-* [Mathway](https://mathway.com/) - Awesome math problem solver
 * [Patrick JMT](http://patrickjmt.com/) - making free and hopefully useful math videos for the world!
 
 ## Languages
@@ -40,7 +39,6 @@
 * [A giant collection of Computer Science books made freely available](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development)
 * [Alison](https://alison.com/learn/programming)
 * [Become a programmer, motherfucker](http://programming-motherfucker.com/become.html) - If you don't know how to code, then you can learn even if you think you can't
-* [Blender](https://www.blender.org/) - Open source, cross platform suite of tools for 3D creation
 * [Codecademy](https://www.codecademy.com/) - Free interactive coding tutorials    
 * [Dash](https://dash.generalassemb.ly/)
 * [MDN](https://developer.mozilla.org/en-US/)
