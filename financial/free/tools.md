@@ -4,13 +4,6 @@
 [Ninite](https://ninite.com/) - A list of popular applications
 
 
-**Ambient Sound Generators**
-
-* [A Soft Murmur](http://asoftmurmur.com/)
-* [MyNoise](https://mynoise.net/noiseMachines.php) - Custom-shaped Online Noise Machines
-* [Nosili](http://www.noisli.com/)
-
-
 **Audio/Video Editing**
 
 * [Audacity](https://sourceforge.net/projects/audacity/) - free, open source, cross-platform software for recording and editing sounds
@@ -56,6 +49,13 @@
 * [Mathway](https://mathway.com/)
 
 
+**Noise Generators**
+
+* [A Soft Murmur](http://asoftmurmur.com/)
+* [MyNoise](https://mynoise.net/noiseMachines.php) - Custom-shaped Online Noise Machines
+* [Nosili](http://www.noisli.com/)
+
+
 **Password Managers**
 
 * [KeePass](http://keepass.info/) - free, open source, light-weight and easy-to-use password manager.  
@@ -80,21 +80,3 @@
 * [LeechBlock (Firefox add-on)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day
 * [RES](http://redditenhancementsuite.com/) - Reddit Enhancement Suite - A must have for all you redditing needs  
 * [StayFocused (Chrome extension)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en) - Chrome alternative to LeechBlock
-
-
-**Other**
-
-* [Blender](https://www.blender.org/) - Open source, cross platform suite of tools for 3D creation
-* [Calibre](http://calibre-ebook.com/) - Free ebook library management  
-* [CeltX](https://www.celtx.com/index.html) - Free scriptwriting and all-in-one production studio
-* [ClipCube](http://zodcode.com/clipcube) - clipboard history. I missed this when using Windows  
-* [ClipX](http://clipx.org/) - a tiny clipboard history manager. It is sweet, it is free, use it. ClipCube alternative
-* [Feedly](http://feedly.com/index.html#discover) -  Read more, know more. RSS feed. They also have an awesome app  
-* [F.lux](https://justgetflux.com/) - Changes the colour of your screen as the day progresses  
-* [Pocket](https://getpocket.com/) - a great site for saving articles, recipes or whole pages for later offline viewing, and cloud syncs with all your devices
-* [Portable Apps](http://portableapps.com/) -  load several apps on a thumb drive to run on any Windows PC  
-* [Prey Project](https://preyproject.com/) - Multi-platform anti-theft software  
-* [Privacy Badger](https://www.eff.org/privacybadger) - developed by the EFF (Electronic Frontier Foundation) and is a browser add-on for Chrome and Firefox that helps lower your internet footprint and stop third party trackers from following your movement around the web
-* [Rainmeter](https://www.rainmeter.net/) - Windows desktop customisation. Similar to Conky for Linux
-* [Spoon](https://turbo.net/#spoon.net) - Use your software and files from any desktop. free virtualization startup that lets users launch full desktop apps from any browser without having any of them installed on my computer
-* [TeraCopy](http://codesector.com/teracopy) - designed to copy and move files at the maximum possible speed. It skips bad files during the copying process, and then displays them at the end of the transfer so that you can see which ones need attention
