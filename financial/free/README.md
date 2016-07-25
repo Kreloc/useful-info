@@ -1,48 +1,68 @@
 # FREE!
 
-## Libary Stuff
+## Library
+
+*(you know, to find words/sounds/pictures)*
 
 **Books**
 
-* [Audio Book Bay](http://audiobookbay.to/)
-* [Gutenberg](http://www.gutenberg.org/)
-* [Librivox](https://librivox.org/)
+* [Audio Book Bay](http://bayaudiobook.com/)
+* [LibriVox](https://librivox.org/) - Free audiobooks
+* [OpenLibrary](https://openlibrary.org/) - download out-of-copyright books, borrow in-copyright books,
+* [Podiobooks](http://podiobooks.com/) - free audiobooks mostly from self-published authors
+* [Project Gutenberg](https://www.gutenberg.org/) - Free books
 
-**Documentaries**
-
-* [Documentary Heaven](http://documentaryheaven.com/)
 
 **Music**
 
-* [Pandora](http://pandora.com/)
-* [Spotify](http://spotify.com/)
-* [Songza](http://songza.com/)
-* [SoundCloud](http://soundcloud.com/)
-* [Rdio](http://www.rdio.com/home/en-us/)
+* [8 Tracks](https://8tracks.com/) - Another playlist service with playlists created by users. Internet radio created by people, not algorithms.
+* [Jango](https://www.jango.com/) - Internet radio that plays what you want, great for those who can't access Pandora
+* [Last.fm](https://www.last.fm/) - Keeps track of your listening habits
+* [Pandora](https://www.pandora.com/)
+* [Play Music](https://play.google.com/music/) - Playlists for whatever mood you're in
+* [SoundCloud](https://soundcloud.com/)
+* [Spotify](https://www.spotify.com/)
 
-**Television/Entertainment**
 
-* [Shush](http://www.shush.se/)
-* [Stream TV](http://stream-tv.me/)
+## Self-Help/Advice
+
+* [7 Cups of Tea](https://www.7cups.com/) - Free, anonymous, and confidential conversations with trained active listeners. Please don't spam the site, they offer a great service
+* [Thrive On](https://thriveon.com/) - Not completely free, but aims to bring affordable online mental health programs to those who would otherwise go without. Starting next month
+* [Blah Therapy](http://blahtherapy.com/) - Online listening service. "Experience the rewards of venting to a stranger or lending an ear."
+* [MoodGYM](https://moodgym.anu.edu.au/welcome) - Learn cognitive behaviour therapy skills for preventing and coping with depression.
+* [Social Services; resources](https://www.reddit.com/r/socialworkresources) - a subreddit created by a professional Social Worker who has spent a career procuring resources for those in need.
+
+
+**TV/Videos**
+
 * [AnimeShow.tv](http://animeshow.tv/)
-* [Hulu](http://www.hulu.com/)
-* [YouTube](http://youtube.com/)
+* [Bee TV](http://beetv.me/)
+* [Documentary Heaven](http://documentaryheaven.com/) - Free documentaries
+* [Hulu](http://www.hulu.com/) *NOTE: Huge Privacy Issue; Connection not encypted.*
+* [Popcorn Time](https://www.reddit.com/r/PopCornTime) - https://www.reddit.com/r/PopCornTime
+* [Pornhub (NSFW!!!)](https://www.pornhub.com/) - free porn, nuff said
+* [PrimeWire](https://www.primewire.ag/)
 * [Show Box](http://showboxpc.be/)
-* [PrimeWire](http://www.primewire.ag/)
-* [MovieTube](http://www.movietube.co/)
-* [Popcorn Time](https://popcorntime.io/)
+* [Shush](https://www.shush.se/)
+* [Stream TV](http://stream-tv2.ag/)
+* [TBLOP](http://www.tblop.com/) - The big list of porn - an organized list of good porn sites
+* [Top Documentary Films](https://topdocumentaryfilms.com/) - more free documentaries
+* [YouTube](https://www.youtube.com/)
 
 ---
 
 ## Other
 
-[Free Internet Services to take advantage of](https://docs.google.com/document/d/17FgH3z88UFYUscw4CHkStbz8FC-e6x1v5X9Hjo9b6eo/pub)
+**Privacy/Security**
+* [Hola Unblocker](https://hola.org/) - Same as above, allows access to US Netflix, Hulu, Pandora, etc. but be warned.
+* [ZenMate](https://chrome.google.com/webstore/detail/z/fdcgdnkidjaadafnichfpabhfomcebme) - (Chrome extension) MediaHint alternative
 
 **Torrenting**
 
 * [Kickass Torrents](http://www.kickass.to/)
 * [YTS](http://yts.re/)
 * [Pirate Bay](https://thepiratebay.se/)
+
 
 **Miscellaneous**
 * [Linux](http://www.linux.com/) - Free operating system
@@ -57,39 +77,8 @@
 * [Cyph](https://www.cyph.com/) - Encrypted chat
 * [UoPeople](http://uopeople.edu/) - Tuition free online University ($100/exam)
 
+
 ## Credits
 
 * [/u/Yivoe on an AskReddit comment](https://www.reddit.com/r/AskReddit/comments/2yw771/what_free_things_on_the_internet_should_everyone/cpdiimu)
 * [/u/osculator](https://docs.google.com/document/d/17FgH3z88UFYUscw4CHkStbz8FC-e6x1v5X9Hjo9b6eo/pub)
-
-
----
-
-## Entertainment:
-* [Project Gutenberg](http://www.gutenberg.org/) - Free books  
-* [OpenLibrary](https://openlibrary.org/) - download out-of-copyright books, borrow in-copyright books,
-* [LibriVox](https://librivox.org/) - Free audiobooks  
-* [Podiobooks](http://podiobooks.com/) - free audiobooks mostly from self-published authors
-* [Documentary Heaven](http://documentaryheaven.com/) - Free documentaries  
-* [Top Documentary Films](http://topdocumentaryfilms.com/) - more free documentaries
-* [Free Documentary](http://freedocumentary.com/) - and more
-* [Last.fm](http://www.last.fm/) - Keeps track of your listening habits  
-* [Play Music](https://play.google.com/music/) - Playlists for whatever mood you're in  
-* [8 Tracks](http://8tracks.com/) - Another playlist service with playlists created by users. Internet radio created by people, not algorithms.
-* [Popcorn Time](https://www.reddit.com/r/PopCornTime) - http://www.reddit.com/r/PopCornTime  
-* [Media Hint](https://mediahint.com/) - Allows for US Netflix and Pandora access for those of us living abroad. Turns out Media Hint are now charging but [here's a workaround](https://www.reddit.com/r/chrome/comments/22538v/m/ch5xyle)
-* [ZenMate](https://chrome.google.com/webstore/detail/zenmate-vpn-best-cyber-se/fdcgdnkidjaadafnichfpabhfomcebme) - (Chrome extension) MediaHint alternative
-* [Hola Unblocker](https://hola.org/) - Same as above, allows access to US Netflix, Hulu, Pandora, etc. but be warned.  
-* [Soundozer](http://soundozer.com/) - it's kind of like Pandora, but you can listen to any song you search for and you can create a station based on that song. You don't have to register either.
-* [Grooveshark](https://www.scorebig.com/concert-tickets/grooveshark?a=grooveshark) - free music, online radio, streaming.
-* [Jango](http://www.jango.com/) - Free music - internet radio that plays what you want, great for those who can't access Pandora
-* [Pornhub](http://www.pornhub.com/) - free porn, nuff said  
-* [TBLOP](http://www.tblop.com/) - The big list of porn - an organized list of good porn sites
-
-## Self-Help/Advice
-
-* [7 Cups of Tea](https://www.7cups.com/) - Free, anonymous, and confidential conversations with trained active listeners. Please don't spam the site, they offer a great service    
-* [Thrive On](https://thriveon.com/) - Not completely free, but aims to bring affordable online mental health programs to those who would otherwise go without. Starting next month  
-* [Blah Therapy](http://blahtherapy.com/) - Online listening service. "Experience the rewards of venting to a stranger or lending an ear."  
-* [MoodGYM](https://moodgym.anu.edu.au/welcome) - Learn cognitive behaviour therapy skills for preventing and coping with depression.  
-* [Social Services; resources](https://www.reddit.com/r/socialworkresources) - a subreddit created by a professional Social Worker who has spent a career procuring resources for those in need.
