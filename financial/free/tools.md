@@ -119,10 +119,3 @@ Privacy/Security
 * [Spoon](https://turbo.net/#spoon.net) - Use your software and files from any desktop. free virtualization startup that lets users launch full desktop apps from any browser without having any of them installed on my computer
 * [TeraCopy](http://codesector.com/teracopy) - designed to copy and move files at the maximum possible speed. It skips bad files during the copying process, and then displays them at the end of the transfer so that you can see which ones need attention
 * [ThatMP3](http://thatmp3.com/) - YouTube to MP3 converter. Auto album art & ID3 tags!
-
-
-
-## Credits
-
-* [/u/Yivoe on an AskReddit comment](https://www.reddit.com/r/AskReddit/comments/2yw771/what_free_things_on_the_internet_should_everyone/cpdiimu)
-* [/u/osculator](https://docs.google.com/document/d/17FgH3z88UFYUscw4CHkStbz8FC-e6x1v5X9Hjo9b6eo/pub)
