@@ -6,9 +6,12 @@ Basically, these links do stuff; stuff that is more than letting you read/watch.
 ## Browsers
 
 **File Browsers**
+
 * [Total Commander](https://www.ghisler.com) - Great file manager (like norton commander) - Shareware
 
 **Internet Browsers**
+
+* [Opera](https://www.opera.com/)
 * [Waterfox](https://www.waterfoxproject.org/) - Very fast 64-Bit browser
 
 
@@ -23,6 +26,7 @@ Basically, these links do stuff; stuff that is more than letting you read/watch.
 ## Documents
 
 * [Atom Editor](https://atom.io/) - A hackable text editor for the 21st Century
+* [CDisplay](http://www.cdisplay.me/) - CBR/CBZ format sequential reader, which are rebranded zip/rar extensions popular for image archives such as comic books, guitar tablature, etc.
 * [Google Docs](http://docs.google.com/)
 * [Komodo Edit IDE](http://komodoide.com/download/#edit) - Powerful free editor for Python, PHP, Perl, Ruby, Tcl, Javascript and other major web languages
 * [LibreOffice](http://www.libreoffice.org/) - offers much more up-to-date software than OpenOffice  
@@ -46,9 +50,15 @@ Basically, these links do stuff; stuff that is more than letting you read/watch.
 * [Drive](https://www.google.com/drive/)
 * [Mega Desktop Sync(50GB)](https://mega.co.nz/) - both cloud storage services
 
+**Recovery/Backup**
+
+* [EaseUS](http://www.easeus.com/) - Several great products like Partition Manager and Disk Copy, generously free for personal use.
+
 **Extras**
 
+* [ClassicShell](http://www.classicshell.net/) - Restores many of the old Windows features including disk free space on Explorer's status bar, restores toolbars, the classic file copy dialog, etc.
 * [Clover](http://ejie.me/) - Tabs for Windows explorer
+* [HJSplit](http://www.hjsplit.org/) - Handy file splitter-joiner
 
 
 **Torrents**
@@ -69,6 +79,7 @@ Basically, these links do stuff; stuff that is more than letting you read/watch.
 ## Imaging
 
 * [GIMP](http://www.gimp.org/) - Free photo manipulation software
+* [Microsoft GIF Animator](http://www.snapfiles.com/get/msgifanimator.html) - Classic, no frills tool for creating gifs.
 * [Paint.NET](http://www.getpaint.net/) - Windows application designed to be the much needed upgrade to MS Paint
 * [Pixlr](https://pixlr.com/) - Online photo editor. web-based equivalent to an old version of Photoshop from 2005 or something. Very functional for occasional use manipulating images, and seeing as it's web-based and doesn't require an account it's super easy to use from anywhere.
 * [Sumo Paint](http://www.sumopaint.com/www/) - Powerful graphics editor for your web browser and pc
@@ -76,9 +87,17 @@ Basically, these links do stuff; stuff that is more than letting you read/watch.
 
 ## IT/Development
 
+* [Abyss Web Server](https://aprelium.com/abyssws/) - Host from home.
+* [AutoHotkey](https://www.autohotkey.com/) - Very powerful open source tool can script and customize macros, hotkeys, everything input related within the Windows environment right down to mouse clicks.
+* [Bulk File Changer](http://www.nirsoft.net/utils/bulk_file_changer.html) - Batch utility for altering file attributes.
 * [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/) - Bulk file-renaming software
+* [Cheat Engine](http://www.cheatengine.org/) - Extensive memory editor/manager. sort of like Game Genie/Codebreaker for PC.
 * [CloudForge](http://www.cloudforge.com/) - Free Subversion and Git hosting
 * [DistroWatch](http://distrowatch.com/) - Put the fun back in computing. Use Linux, BSD. This site gives detailed information on each Linux distribution and provides links to their respective communities
+* [Filezilla](https://filezilla-project.org/) - Fully featured freeware FTP client
+* [Flare](http://www.nowrap.de/flare.html) - Decompile Flash swf.
+* [HJSplit](https://www.httrack.com/) - Downloads web site resources to generate a mirror for offline browsing.
+* [Less Msierables](http://lessmsi.activescott.com/) - Extracts contents from a .msi file.
 * [Linux](http://www.linux.com/) - Free operating system
 * [MobaXterm](https://mobaxterm.mobatek.net/) - Feature-rich SSH client
 * [PuTTY](http://www.putty.org/) - SSH Client
@@ -101,6 +120,7 @@ Basically, these links do stuff; stuff that is more than letting you read/watch.
 * [Avidemux](http://fixounet.free.fr/avidemux/) - Free video editor
 * [Camstudio](http://camstudio.org/) - Screencapture
 * [Clementine Music Player](https://www.clementine-player.org/) - Modern music player and library organizer
+* [Go PlayAlong](http://goplayalong.com/) - Shareware guitar tablature player for Guitar Pro formats.
 * [Handbrake](https://handbrake.fr/) - open source video transcoder
 * [Jahshaka](http://www.jahshaka.com/) - Very advanced open source video editor
 * [Kodi](https://kodi.tv/) - Open-source home theatre software (formely known as XBMC)
@@ -132,6 +152,7 @@ Basically, these links do stuff; stuff that is more than letting you read/watch.
 * [10 Minute Mail](http://10minutemail.com/10MinuteMail/index.html) - Temporary Email Address. No spam.
 * [Cyph](https://www.cyph.com/) - Encrypted chat
 * [Hola Unblocker](https://hola.org/) - Same as above, allows access to US Netflix, Hulu, Pandora, etc. but be warned.
+* [PeerBlock](http://forums.peerblock.com/) - Monitors connections and blocks many of them based upon lists of registered IP ranges belonging to various government, anti-p2p, etc. agencies.
 * [Prey Project](https://preyproject.com/) - Multi-platform anti-theft software  
 * [Privacy Badger](https://www.eff.org/privacybadger) - developed by the EFF (Electronic Frontier Foundation) and is a browser add-on for Chrome and Firefox that helps lower your internet footprint and stop third party trackers from following your movement around the web
 * [TcpView](https://technet.microsoft.com/en-us/sysinternals/bb897437.aspx) - Displays all TCP and UDP endpoints on your system
@@ -162,13 +183,16 @@ There's no need to pay for an antivirus. Here are some great free programs that'
 * [Actual Multiple Monitors](http://www.actualtools.com/multiplemonitors/) - Excellent multi-monitor software
 * [Defraggler](https://www.piriform.com/defraggler) - File/disk defragmentation
 * [Display Fusion](https://www.displayfusion.com/) - Have taskbars on multiple monitors and other improvements
+* [EasyBCD](https://neosmart.net/EasyBCD/) - Manages boot loaders and restores/repaires broken entries under Windows.
 * [Everything](https://www.voidtools.com/) - Not-crap Windows search tool
 * [EVGA Precision](https://www.evga.com/precision/) - GPU overclocking utility
 * [f.lux](https://justgetflux.com/) - Tints your computer screen to be easier on the eyes
+* [FileTypesMan](http://www.nirsoft.net/utils/file_types_manager.html) - File extension management
 * [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU monitoring software
 * [Greenshot](http://getgreenshot.org/) - Upload screenshots directly to imgur
 * [MSI Afterburner](https://gaming.msi.com/features/afterburner) - GPU Overclocking
 * [MSI Kombustor](http://www.ozone3d.net/msi_kombustor/) - GPU Benchmarking
+* [PowerMenu](http://www.abstractpath.com/powermenu/) - Adds 'always on top' and other functions to Windows.
 * [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/bb896653.aspx) - More powerful than Windows task manager.
 * [Puush](https://puush.me/) - Super-quick way to share screenshots
 * [Rainmeter](https://www.rainmeter.net/) - Popular desktop customization tool
@@ -183,6 +207,7 @@ Be aware that system cleaners could have a negative impact on the performance of
 
 * [CCleaner](https://www.piriform.com/CCLEANER) - Clean up unused files and registry issues
 * [The PC Decrapifier](https://pcdecrapifier.com/)
+* [DriverSweeper](https://www.guru3d.com/content_page/guru3d_driver_sweeper.html) - Cleans old drivers from systems.
 
 
 ## Other Browser Extensions
