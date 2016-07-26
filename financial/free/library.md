@@ -8,7 +8,7 @@
 * [LibriVox](https://librivox.org/) - Free audiobooks
 * [OpenLibrary](https://openlibrary.org/) - download out-of-copyright books, borrow in-copyright books,
 * [Podiobooks](http://podiobooks.com/) - free audiobooks mostly from self-published authors
-* [Project Gutenberg](https://www.gutenberg.org/) - Free books
+* [Project Gutenberg](https://www.gutenberg.org/) - These books are often taught in all sorts of literature classes
 
 
 ## Music
@@ -26,7 +26,8 @@
 
 * [AnimeShow.tv](http://animeshow.tv/)
 * [Bee TV](http://beetv.me/)
-* [Documentary Heaven](http://documentaryheaven.com/) - Free documentaries
+* [Documentary Heaven](http://documentaryheaven.com/) - Literally hundreds of streaming documentaries, all arranged by topic.
+* [Feed2all](http://www.feed2allnow.eu/) - Semi-ILLEGAL site to watch sports events, proceed at your own risk. Many sports events are available there. 
 * [Hulu](http://www.hulu.com/) *NOTE: Huge Privacy Issue; Connection not encypted.*
 * [Popcorn Time](https://www.reddit.com/r/PopCornTime) - https://www.reddit.com/r/PopCornTime
 * [Pornhub (NSFW!!!)](https://www.pornhub.com/) - free porn, nuff said
