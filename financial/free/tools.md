@@ -70,10 +70,13 @@ Basically, these links do stuff; stuff that is more than letting you read/watch.
 
 ## Games
 
+* [Habitica](https://habitica.com/) - Motivates you to achieve your goals by treating real life like a game.
+* [Steam](https://store.steampowered.com/genre/Free%20to%20Play/) - Has free games available.
+
+**Recording**
 * [Dxtory](http://exkode.com/dxtory-features-en.html) - Similar to Fraps and Afterburner
 * [Fraps](http://www.fraps.com/) - FPS Counter & Game recording
 * [Open Broadcaster Software (OBS)](https://obsproject.com/) - Stream and record your games.
-* [Steam](https://store.steampowered.com/) - Has free games available.
 
 
 ## Imaging
@@ -83,7 +86,7 @@ Basically, these links do stuff; stuff that is more than letting you read/watch.
 * [Paint.NET](http://www.getpaint.net/) - Windows application designed to be the much needed upgrade to MS Paint
 * [Pixlr](https://pixlr.com/) - Online photo editor. web-based equivalent to an old version of Photoshop from 2005 or something. Very functional for occasional use manipulating images, and seeing as it's web-based and doesn't require an account it's super easy to use from anywhere.
 * [Sumo Paint](http://www.sumopaint.com/www/) - Powerful graphics editor for your web browser and pc
-* 
+
 
 ## IT/Development
 
