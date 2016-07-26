@@ -16,6 +16,7 @@
 ## Music
 
 * [8 Tracks](https://8tracks.com/) - Another playlist service with playlists created by users. Internet radio created by people, not algorithms.
+* [Jamendo](https://www.jamendo.com/)
 * [Jango](https://www.jango.com/) - Internet radio that plays what you want, great for those who can't access Pandora
 * [Last.fm](https://www.last.fm/) - Keeps track of your listening habits
 * [Pandora](https://www.pandora.com/)
