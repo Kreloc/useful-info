@@ -16,6 +16,9 @@ Includes books, audio-books, music, TV shows, and documentaries. Basically, anyt
 
 Applications/programs/websites that do specific stuff for you for free! This includes software for Windows to manage time or websites to share legal (and maybe illegal) content. There are also VPN's to hide whatever you are doing.
 
+## Other
+
+* [Free Section on Craigslist](https://craigslist.org/search/zip)
 
 ## Credits
 
