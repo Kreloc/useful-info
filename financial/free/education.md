@@ -35,6 +35,11 @@
 ## Math
 
 * [Patrick JMT](http://patrickjmt.com/) - making free math videos for the world!
+* [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Free notes/tutorials for math courses. Written by Paul who teaches at Lamar University.
+
+<!--
+Credits, Paul's Online Math Notes: /u/awaythrow626
+-->
 
 ## Languages
 
