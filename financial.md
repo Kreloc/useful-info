@@ -9,17 +9,17 @@ layout: page
 
 No dollars, monies, contracts, exchanges, or even bribes are required to use any of these links you may find here in this folder.
 
-## [Education](/free/financial/education)
+## [Education](/useful-info/financial/education)
 
 Learn stuff for free! Find many tutorials, courses, and videos that will teach you anything from basic addition to quantam physics, or physiology of a frog.
 
 This category also includes self-help links such as thearapy and tips to overcoming your worst nightmare.
 
-## [Library](/free/financial//library)
+## [Library](/useful-info/financial//library)
 
 Includes books, audio-books, music, TV shows, and documentaries. Basically, anything you would watch/read without interacting with it.
 
-## [Tools](/free/financial//tools)
+## [Tools](/useful-info/financial//tools)
 
 Applications/programs/websites that do specific stuff for you for free! This includes software for Windows to manage time or websites to share legal (and maybe illegal) content. There are also VPN's to hide whatever you are doing.
 
