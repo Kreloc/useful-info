@@ -2,7 +2,11 @@
 
 *(you know, to find words/sounds/pictures)*
 
-[An actual library!](https://www.overdrive.com/)
+* [Overdrive; It's an actual online library!](https://www.overdrive.com/)
+* [Archive.org](https://archive.org/) - Vast collection of books, movies, software, music, websites, and more. Operated by a non-profit company, they can also archive websites and store them for future generations.
+* [Hoopla](https://www.hoopladigital.com/) - Free audiobooks, comics, movies, and more!
+
+<!-- Credits, Hoopla: /u/CactusMonster -->
 
 ## Books
 
@@ -21,9 +25,11 @@
 * [Last.fm](https://www.last.fm/) - Keeps track of your listening habits
 * [Pandora](https://www.pandora.com/)
 * [Play Music](https://play.google.com/music/) - Playlists for whatever mood you're in
+* [Radiooooo](http://radiooooo.com/)
 * [SoundCloud](https://soundcloud.com/)
 * [Spotify](https://www.spotify.com/)
 
+<!-- Credits, Radiooooo: /u/islandofshame -->
 
 ## TV/Videos
 
@@ -33,12 +39,10 @@
 * [Feed2all](http://www.feed2allnow.eu/) - Semi-ILLEGAL site to watch sports events, proceed at your own risk. Many sports events are available there. 
 * [Hulu](http://www.hulu.com/) *NOTE: Huge Privacy Issue; Connection not encypted.*
 * [Popcorn Time](https://www.reddit.com/r/PopCornTime) - https://www.reddit.com/r/PopCornTime
-* [Pornhub (NSFW!!!)](https://www.pornhub.com/) - free porn, nuff said
 * [PrimeWire](https://www.primewire.ag/)
 * [Show Box](http://showboxpc.be/)
 * [Shush](https://www.shush.se/)
 * [Stream TV](http://stream-tv2.ag/)
-* [TBLOP](http://www.tblop.com/) - The big list of porn - an organized list of good porn sites
 * [Top Documentary Films](https://topdocumentaryfilms.com/) - more free documentaries
 * [Twitch.tv](https://www.twitch.tv/) - Stream your games, or watch others
 * [YouTube](https://www.youtube.com/)
