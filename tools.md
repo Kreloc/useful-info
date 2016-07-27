@@ -1,3 +1,9 @@
+---
+title: Free tools
+permalink: financial/tools/
+layout: page
+---
+
 # Tools
 
 Basically, these links do stuff; stuff that is more than letting you read/watch.

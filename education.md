@@ -1,3 +1,9 @@
+---
+title: Education Listing
+permalink: financial/education/
+layout: page
+---
+
 # Learning
 
 [Learn Anything for Free; NoExcuseList](http://www.noexcuselist.com/) - Includes sources for everything you can want.

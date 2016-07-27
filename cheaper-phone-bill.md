@@ -1,3 +1,10 @@
+---
+title: Cheaper Phone Bill
+permalink: /financial/phone-bill
+layout: page
+---
+
+
 # Research for a Cheaper Phone Bill
 
 *All bills were paid monthly unless otherwise stated.*

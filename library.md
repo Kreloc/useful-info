@@ -1,3 +1,9 @@
+---
+title: Library Listing
+permalink: financial/library/
+layout: page
+---
+
 # Library
 
 *(you know, to find words/sounds/pictures)*
