@@ -17,11 +17,13 @@ Basically, these links do stuff; stuff that is more than letting you read/watch.
 
 ## Communications
 
+* [Discord](https://discordapp.com/) - A platform independent alternative to Skype and TeamSpeak.
 * [Mumble](https://wiki.mumble.info/) - Low-latency VoIP client
 * [Skype](https://www.skype.com/) - Free internet calls
 * [TeamSpeak](https://www.teamspeak.com/) - Probably the most popular VoIP client out there
 * [Ventrilo](http://www.ventrilo.com/) - Another popular VoIP client
 
+<!-- Credits, Discord: Vpicone -->
 
 ## Documents
 
@@ -46,9 +48,11 @@ Basically, these links do stuff; stuff that is more than letting you read/watch.
 
 **Cloud Storage**
 
-* [Copy](https://www.copy.com/page/) - Online cloud storage. Start with 15gb free. Or 20gb with a referral code (Shameless sharing of my own referral code). Here is the Copy referral train. Free storage for everyone!
 * [Drive](https://www.google.com/drive/)
 * [Mega Desktop Sync(50GB)](https://mega.co.nz/) - both cloud storage services
+* [pCloud](https://www.pcloud.com/) - Personal secure online stoarge with a free 10 GB
+
+<!-- Credits, pCloud: /u/eatbeans96 -->
 
 **Recovery/Backup**
 
@@ -115,7 +119,9 @@ Basically, these links do stuff; stuff that is more than letting you read/watch.
 
 * [Symbolab](http://www.symbolab.com/)
 * [Mathway](https://mathway.com/)
+* [Octave](https://www.gnu.org/software/octave/) - Similar to MATLAB, Octave solves high-level mathematical problems for Linux
 
+<!-- Credits, Octave: ttblue -->
 
 ## Media
 
@@ -243,4 +249,3 @@ Be aware that system cleaners could have a negative impact on the performance of
 * [Rainmeter](https://www.rainmeter.net/) - Windows desktop customisation. Similar to Conky for Linux
 * [Spoon](https://turbo.net/#spoon.net) - Use your software and files from any desktop. free virtualization startup that lets users launch full desktop apps from any browser without having any of them installed on my computer
 * [TeraCopy](http://codesector.com/teracopy) - designed to copy and move files at the maximum possible speed. It skips bad files during the copying process, and then displays them at the end of the transfer so that you can see which ones need attention
-* [ThatMP3](http://thatmp3.com/) - YouTube to MP3 converter. Auto album art & ID3 tags!
