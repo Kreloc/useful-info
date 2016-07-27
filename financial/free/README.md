@@ -19,7 +19,9 @@ Applications/programs/websites that do specific stuff for you for free! This inc
 ## Other
 
 * [Free Section on Craigslist](https://craigslist.org/search/zip) - You can find a lot of cool stuff if you go to the free section of craigslist.
+* [Freecycle](https://www.freecycle.org/) - Nonprofit movement of people who are giving away free stuff in their own towns. This website is all about reuse and reducing the junk going into landfills.
 * [RetailMeNot](https://www.retailmenot.com/) - While not exclusively for free stuff, this site gives you coupons to be used for purchases.
+* [Slickdeals Freebies](https://slickdeals.net/forums/forumdisplay.php?f=4) - Free stuff posted by other users of Slickdeals
 
 ## Credits
 
